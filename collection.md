@@ -9,4 +9,13 @@ This collection represents sample student work between 2018 and 2019. Students i
 "Information Design." Provided by: Andrew Davis. Located at: [https://docs.google.com/document/d/1ZqX9Y5uM18eeI3obk89oCIge61yLdclL-qzbb_ZR2bU/edit?usp=sharing](https://docs.google.com/document/d/1ZqX9Y5uM18eeI3obk89oCIge61yLdclL-qzbb_ZR2bU/edit?usp=sharing). License: CC-BY-SA 4.0 
 
 ## Infographics
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/81" width="100%" height="750" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.cwr.olemiss.edu/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+|                 |                   |                   |                   |
+|-----------------|-------------------|-------------------|-------------------|
+![1](media/1.png) | ![2](media/2.jpg) | ![3](media/4.png) | ![5](media/5.png) |
+
+
+
+
+### Attribution
+"Digital Media and Meal Time." Provided by: Sophia DePasquale. License: CC-BY-SA
+"
