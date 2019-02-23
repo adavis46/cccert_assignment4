@@ -13,11 +13,9 @@ This collection represents sample student work between 2018 and 2019. Students i
 
 |![3](media/2.jpg)|![5](media/5.png)  
 |----|----|  
-|Text|Text   
-
 |![2](media/4.png)|![1](media/1.png)      
 |----|----| 
-|Text|Text 
+
 
 
 
