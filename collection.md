@@ -9,14 +9,15 @@ This collection represents sample student work between 2018 and 2019. Students i
 "Information Design." Provided by: Andrew Davis. Located at: [https://docs.google.com/document/d/1ZqX9Y5uM18eeI3obk89oCIge61yLdclL-qzbb_ZR2bU/edit?usp=sharing](https://docs.google.com/document/d/1ZqX9Y5uM18eeI3obk89oCIge61yLdclL-qzbb_ZR2bU/edit?usp=sharing). License: CC-BY-SA 4.0 
 
 ## Infographics
-|![2](media/4.png)|![1](media/1.png)      
-|----|----|  
-|Text|Text   
+
 
 |![3](media/2.jpg)|![5](media/5.png)  
 |----|----|  
 |Text|Text   
 
+|![2](media/4.png)|![1](media/1.png)      
+|----|----| 
+|Text|Text 
 
 
 
