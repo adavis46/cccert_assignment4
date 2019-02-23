@@ -11,7 +11,7 @@ This collection represents sample student work between 2018 and 2019. Students i
 ## Infographics
 |Infographic 1    |Infographic 1      |Infographic 1      |Infographic 1      |
 |-----------------|-------------------|-------------------|-------------------|
-![1](media/1.png) | ![2](media/2.jpg) | ![3](media/4.png) | ![5](media/5.png) |
+|![1](media/1.png)| ![2](media/2.jpg) | ![3](media/4.png) | ![5](media/5.png) |
 
 
 
