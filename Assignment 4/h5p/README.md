@@ -1,0 +1,3 @@
+Visit [H5P.org](https://h5p.org/) to learn more about H5P assessment development tools. If you want to modify the exercises in this module, download the H5P files from this directory and upload them to [H5P.org](https://h5p.org) or your own H5P server. 
+
+If you just want to reuse the exercises in your own course, click "Embed" below the individual exercise you want to use. If you plan to use the exercises in a large-scale operation, please contact [Andrew Davis](mailto:addavis@olemiss.edu). 
