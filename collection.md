@@ -26,7 +26,7 @@ This collection represents sample student work between 2018 and 2019. Students i
 - "Digital Media and Meal Time." Provided by: Sophia DePasquale. Located at: [https://adavis46.github.io/cccert_assignment4/media/1.png](https://adavis46.github.io/cccert_assignment4/media/1.png) License: CC-BY-SA
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This collection is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> unless indicated otherwise. 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This collection is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> unless indicated otherwise. 
 
 
 
