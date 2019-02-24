@@ -13,6 +13,22 @@ In this module, you will:
 ## 1. Collections   
 In general, for your OER work a **collection** is analogous to an **anthology**. If your project combines unmodified texts, media, or other content in single location with only basic non-adaptive format changes, it is considered a collection. For example, if you are developing a Literature OER, you might create an anthology of several different short stories, poems, and essays. These individual texts keep their original licenses 
 
+When you create a collection, you must provide attribution and licensing information about the individual works in your collection. This gives the public the information they need to understand who created what and which license terms apply to specific content. 
+
+When you combine material into a collection, you may have a separate copyright of your own that you may license. However, your copyright only extends to the new contributions you made to the work. In a collection, that is the selection and arrangement of the various works in the collection, and not the individual works themselves. For example, you can select and arrange pre-existing learning obects created by others into an anthology, write an introduction, and design a cover for the collection, but your copyright and the only copyright you can license extends to your arrangement of the original learning objects (not the objects themselves), and your original introduction and cover. 
+
+If the learning objects have a CC-BY-ND license, or any variation of it, you cannot modify them in any way and you must include them in their entirety. This matters especially if you find a complete OER textbook that you like with an ND license. Technically, the only way to include it in a collection is to include the **entire** work. Others have rationalized including complete chapters of ND works, but this is definitely a questionable practice if you pay close attention to the license terms. 
+
+The safest way to include part of an ND-licensed textbook in your own project is to link out to it. 
+
+### General Rules for Collections
+- If the underlying work is licensed under a NoDerivatives license, you can make and use changes privately but you cannot share your adaptation with others, as discussed above. **Sharing it with your students is a public use** and violates the license terms. 
+
+- If the underlying work is licensed under a ShareAlike license, then ShareAlike applies to your adaptation and you must license it under the same or a compatible license. 
+
+- In all cases, you have to attribute the original work when you create an adaptation.
+
+### Sample Collection
 Take a look at [this collection](collection.md) of student designed infographics about digital media. 
 
 ## 2. Remixes
@@ -45,6 +61,8 @@ The faculty developers of the example Advanced Composition textbook above discus
 Take a look at [this sample remix](https://hyp.is/go?url=https%3A%2F%2Fadavis46.github.io%2Fcccert_assignment4%2Fremix.html) based on the Learn By Doing activity above. Click on the highlighted text to explore how the different sources have been remixed. 
 
 ## Attributions
+
+- "4.4 Remixing CC-Licensed Works." Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccerteducomments/chapter/4-4-remixing-cc-licensed-work/](https://certificates.creativecommons.org/cccerteducomments/chapter/4-4-remixing-cc-licensed-work/). License: CC-BY 4.0
 
 - "CC License Compatibility Chart." Provided by: Creative Commons. Located at: [https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work](https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work). License: CC-BY 4.0
 
