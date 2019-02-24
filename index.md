@@ -6,7 +6,7 @@
 ### Learning Outcomes
 In this module, you will:
 - **Define** collections 
-- **Define** remixes.
+- **Define** remixes
 - **Differentiate** collections and remixes
 - **Apply** compatible licenses to new OER projects
 
