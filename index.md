@@ -38,7 +38,7 @@ The faculty developers of the example Advanced Composition textbook above discus
 
 ### Learn By Doing: Create your own Remix
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/84" width="688" height="549" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/84" width="100% height="549" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Sample Remix
 
