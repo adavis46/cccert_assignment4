@@ -17,12 +17,19 @@ This collection represents sample student work between 2018 and 2019. Students i
 |----|----| 
 
 ### Attributions
-- "Easy Tips to Be an Educated Media Consumer in the age of Fake News." Provided by: Hadley Hitson. License: CC-BY-ND
+- "Easy Tips to Be an Educated Media Consumer in the age of Fake News." Provided by: Hadley Hitson. Located at: [https://adavis46.github.io/cccert_assignment4/media/2.jpg](https://adavis46.github.io/cccert_assignment4/media/2.jpg) License: CC-BY-ND
 
-- "Impact of Reddit on Users' Mental Health." Provided by: Brant Akins. License: CC-BY-ND
+- "Impact of Reddit on Users' Mental Health." Provided by: Brant Akins. Located at: [https://adavis46.github.io/cccert_assignment4/media/5.png](https://adavis46.github.io/cccert_assignment4/media/5.png) License: CC-BY-ND
 
-- "Let's Play On! Esports = Sports." Provided by: Kendall Patterson. License: CC-BY
+- "Let's Play On! Esports = Sports." Provided by: Kendall Patterson. Located at: [https://adavis46.github.io/cccert_assignment4/media/4.png](https://adavis46.github.io/cccert_assignment4/media/4.png) License: CC-BY
 
-- "Digital Media and Meal Time." Provided by: Sophia DePasquale. License: CC-BY-SA
+- "Digital Media and Meal Time." Provided by: Sophia DePasquale. Located at: [https://adavis46.github.io/cccert_assignment4/media/1.png](https://adavis46.github.io/cccert_assignment4/media/1.png) License: CC-BY-SA
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This collection is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> unless indicated otherwise. 
+
+
+
+
 
 
