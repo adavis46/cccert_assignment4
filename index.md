@@ -42,7 +42,7 @@ The faculty developers of the example Advanced Composition textbook above discus
 
 ### Sample Remix
 
-Take a look at [this sample remix](remix.md) based on the Learn By Doing activity above. Click on the highlighted text to explore how the different sources have been remixed. 
+Take a look at [this sample remix](https://hyp.is/go?url=https%3A%2F%2Fadavis46.github.io%2Fcccert_assignment4%2Fremix.html) based on the Learn By Doing activity above. Click on the highlighted text to explore how the different sources have been remixed. 
 
 ## Attributions
 
